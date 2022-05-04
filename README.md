@@ -1,2 +1,2 @@
 # How To Use?
-Simple Tools for DDOS SA:MP Server
+Type python2 diegobot.py
