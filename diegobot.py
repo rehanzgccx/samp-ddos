@@ -9,13 +9,13 @@ import os
 
 os.system("clear");
 print
-print "============================================"
-print "|Author   : DiegoBot Official                    |"
-print "|Name Tools : DDOS SAMP                  |"
-print "|Github   : https://github.com/DiegoBotXD |"
-print "|Youtube : youtube.com/c/DiegoBotOfficial            |"
-print "|Note : CTRL+Z For Stop It.                |"
-print "|==============================================="
+print "===================================================================="
+print "|Author     : Nicholas Developer                                   |"
+print "|Name Tools : DDOS SAMP                                            |"
+print "|Github     : https://github.com/NicholasDevelopers.               |"
+print "|Youtube    : https://youtube.com/channel/UCA6jbbAO29pYFP4QUqMBpmQ |"
+print "|Note       : CTRL+Z For Stop It.                                  |"
+print "|==================================================================="
 print
 ip = raw_input("IP Target : ")
 port = input("Port       : ")
