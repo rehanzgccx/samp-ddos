@@ -2,4 +2,4 @@
 Type python2 diegobot.py
 
 
-Support Cloud Shell, does not support termux.
+Support Cloud Shell, doesn't support termux.
