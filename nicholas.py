@@ -12,7 +12,7 @@ print
 print "===================================================================="
 print "|Author     : Revolustars Comunity                                  |"
 print "|Name Tools : DDOS SAMP                                             |"
-print "|Github     : https://github.com/revolustars                        |"
+print "|Github     : https://github.com/rehanzgccx/samp-ddos                        |"
 print "|Youtube    : https://youtube.com/@Ramosz_SAMPv                     |"
 print "|Note       : SUBSCRIBE YT RAMOSZ SAMP                              |"
 print "|==================================================================="
