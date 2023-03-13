@@ -10,11 +10,11 @@ import os
 os.system("clear");
 print
 print "===================================================================="
-print "|Author     : Nicholas Developer                                   |"
-print "|Name Tools : DDOS SAMP                                            |"
-print "|Github     : https://github.com/NicholasDevelopers.               |"
-print "|Youtube    : https://youtube.com/channel/UCA6jbbAO29pYFP4QUqMBpmQ |"
-print "|Note       : CTRL+Z For Stop It.                                  |"
+print "|Author     : Revolustars Comunity                                  |"
+print "|Name Tools : DDOS SAMP                                             |"
+print "|Github     : https://github.com/revolustars                        |"
+print "|Youtube    : https://youtube.com/@Ramosz_SAMPv                     |"
+print "|Note       : SUBSCRIBE YT RAMOSZ SAMP                              |"
 print "|==================================================================="
 print
 ip = raw_input("IP Target : ")
